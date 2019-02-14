@@ -68,7 +68,6 @@ Failing to follow the community guidelines as described in this document carries
 * Maria Neumayer - @maria
 * Mike Evans - @michael.evans
 * Raveesh Bhalla - @raveesh
-* Rebecca Franks - @riggaroo
 * Ty Smith - @ty
 * Vince Mi - @vince
 * Zac Sweers - @z
